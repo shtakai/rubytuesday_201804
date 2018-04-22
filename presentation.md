@@ -227,5 +227,38 @@ Prepare AWS
 
 ---
 
-# I am happy.
-## Let's talk via something. (I have to go to hotel.)
+# Gears I use
+
+```
+<keyboard>
+- WASD custom keyboard/ Vortex 6X%/ Ergodox
+```
+
+```
+<software>
+- nvim coding
+- vscode writing/analysing logs
+- rubymine etc debuging
+- peco filtering
+- jasper issue tracking/notification
+- tig/magit git frontend
+- many terminals on ubuntu
+- many Chrome-typed browser
+- franz messaging
+```
+
+
+---
+
+## Let's talk via something.
+- I have to go to hotel. so sorry
+- I'll return to BKK May/ June-
+- Overcome Impostor Syndrome
+- Charactaristic approach is creazed x up way
+- Comminity is important (always I was in my room)
+- I'd like to open workshop
+```
+- dive to terminal 
+- simple hackathon
+- (if available) rails girls
+```
