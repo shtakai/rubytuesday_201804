@@ -224,24 +224,9 @@ Prepare AWS
 	- Boot camp
 		- I did not know about git enough.
 	- pxa
-		- Just created (´Д⊂ヽ
+		- Just created.
 
 5:00 (19:30)
 - Just showing something
 	- B__t___p
 
----
-
-
-## Let's talk via something.
-- I have to go to hotel. So sorry.
-- I'll return to BKK May 1/ June 8.
-- Overcome Impostor Syndrome.
-- Characteristic approach i.s crazed x up way.
-- Comminity is important.(always I was in my room)
-- I'd like to open workshop together
-```
-- Dive to the terminal 
-- Simple hackathon
-- (If available) rails girls
-```
